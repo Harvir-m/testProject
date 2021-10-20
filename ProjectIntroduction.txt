@@ -1,3 +1,5 @@
+Harvir Singh Matharu
+100384025
 Intro Overview:
 The software application that I want to design is called “Teeth Ltd”. Teeth Ltd is going to be an innovative application for oral health. Many individuals are suffering from gingivitis, plaque, and gum health. I want to design this application to help those heal their gum line and restore their enamel. One of the main reasons that oral health is suffering is the amount of time spent brushing each quadrant of the mouth. By avoiding teeth such as the molars bad bacteria can linger underneath the gumline causing many foul diseases to grow. This application will assist one in restoring their poor oral health to striving for healthier gums.
 
